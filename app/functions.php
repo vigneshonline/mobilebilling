@@ -1,0 +1,3 @@
+/*
+This is were all the function for the application resides
+*/
